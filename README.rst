@@ -1,3 +1,9 @@
+Koolkalang Fork 
+---------------
+This fork is just meant to see if I can configure the DPA Pipeline to work on my system. 
+So far I've gotten it to work within a Xubuntu VM, but am aiming to make it work with Bash on Windows 
+(fingers crossed)!
+
 
 DPA Pipeline Framework (backend)
 ----------------------------------
