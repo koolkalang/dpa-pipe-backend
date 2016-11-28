@@ -25,5 +25,5 @@ django-suit==0.2.10
 psycopg2==2.5.3
 
 #uwsgi
-uwsgi==2.0.9
+uwsgi==2.0.14
 
