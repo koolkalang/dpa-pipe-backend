@@ -32,6 +32,9 @@ sys.path.append(DPA_ROOT)
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
+# NEW
+ALLOWED_HOSTS = ['*']
+
 
 # ---- app configuration 
 
